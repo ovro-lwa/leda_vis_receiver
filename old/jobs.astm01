@@ -1,0 +1,8 @@
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45401 /lustre/data/lb00 1 >> /lustre/data/lb00/tx.out 2>> /lustre/data/lb00/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45402 /lustre/data/lb01 2 >> /lustre/data/lb01/tx.out 2>> /lustre/data/lb01/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45403 /lustre/data/lb02 3 >> /lustre/data/lb02/tx.out 2>> /lustre/data/lb02/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45404 /lustre/data/lb03 4 >> /lustre/data/lb03/tx.out 2>> /lustre/data/lb03/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45405 /lustre/data/lb04 5 >> /lustre/data/lb04/tx.out 2>> /lustre/data/lb04/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45406 /lustre/data/lb05 6 >> /lustre/data/lb05/tx.out 2>> /lustre/data/lb05/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45407 /lustre/data/lb06 7 >> /lustre/data/lb06/tx.out 2>> /lustre/data/lb06/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45408 /lustre/data/lb07 8 >> /lustre/data/lb07/tx.out 2>> /lustre/data/lb07/tx.err &

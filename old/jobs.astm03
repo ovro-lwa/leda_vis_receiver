@@ -1,0 +1,6 @@
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45401 /lustre/data/lb16 1 >> /lustre/data/lb16/tx.out 2>> /lustre/data/lb16/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45402 /lustre/data/lb17 2 >> /lustre/data/lb17/tx.out 2>> /lustre/data/lb17/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45403 /lustre/data/lb18 3 >> /lustre/data/lb18/tx.out 2>> /lustre/data/lb18/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45404 /lustre/data/lb19 4 >> /lustre/data/lb19/tx.out 2>> /lustre/data/lb19/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45405 /lustre/data/lb20 5 >> /lustre/data/lb20/tx.out 2>> /lustre/data/lb20/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45406 /lustre/data/lb21 6 >> /lustre/data/lb21/tx.out 2>> /lustre/data/lb21/tx.err &

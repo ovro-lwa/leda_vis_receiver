@@ -1,0 +1,24 @@
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45401 /lustre/data/00 1 >> /lustre/data/00/tx.out 2>> /lustre/data/00/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45402 /lustre/data/01 2 >> /lustre/data/01/tx.out 2>> /lustre/data/01/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45403 /lustre/data/02 3 >> /lustre/data/02/tx.out 2>> /lustre/data/02/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45404 /lustre/data/03 4 >> /lustre/data/03/tx.out 2>> /lustre/data/03/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45405 /lustre/data/04 5 >> /lustre/data/04/tx.out 2>> /lustre/data/04/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45406 /lustre/data/05 6 >> /lustre/data/05/tx.out 2>> /lustre/data/05/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45407 /lustre/data/06 7 >> /lustre/data/06/tx.out 2>> /lustre/data/06/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45408 /lustre/data/07 8 >> /lustre/data/07/tx.out 2>> /lustre/data/07/tx.err &
+
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45401 /lustre/data/08 1 >> /lustre/data/08/tx.out 2>> /lustre/data/08/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45402 /lustre/data/09 2 >> /lustre/data/09/tx.out 2>> /lustre/data/09/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45403 /lustre/data/10 3 >> /lustre/data/10/tx.out 2>> /lustre/data/10/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45404 /lustre/data/11 4 >> /lustre/data/11/tx.out 2>> /lustre/data/11/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45405 /lustre/data/12 5 >> /lustre/data/12/tx.out 2>> /lustre/data/12/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45406 /lustre/data/13 6 >> /lustre/data/13/tx.out 2>> /lustre/data/13/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45407 /lustre/data/14 7 >> /lustre/data/14/tx.out 2>> /lustre/data/14/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45408 /lustre/data/15 8 >> /lustre/data/15/tx.out 2>> /lustre/data/15/tx.err &
+
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45401 /lustre/data/16 1 >> /lustre/data/16/tx.out 2>> /lustre/data/16/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45402 /lustre/data/17 2 >> /lustre/data/17/tx.out 2>> /lustre/data/17/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45403 /lustre/data/18 3 >> /lustre/data/18/tx.out 2>> /lustre/data/18/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45404 /lustre/data/19 4 >> /lustre/data/19/tx.out 2>> /lustre/data/19/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45405 /lustre/data/20 5 >> /lustre/data/20/tx.out 2>> /lustre/data/20/tx.err &
+/home/sb/leda_vis_receiver-sb/leda_vis_receiver 45406 /lustre/data/21 6 >> /lustre/data/21/tx.out 2>> /lustre/data/21/tx.err &
